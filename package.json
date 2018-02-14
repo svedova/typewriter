@@ -1,0 +1,31 @@
+{
+  "name": "@svedova/typewriter",
+  "version": "0.1.0",
+  "description": "A lightweight TypeWriter that works out of the box",
+  "main": "bundle.js",
+  "scripts": {
+    "build": "rollup -c",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svedova/typewriter.git"
+  },
+  "keywords": [
+    "type-writer",
+    "javascript"
+  ],
+  "author": "Savas Vedova <savas@vsk.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/svedova/typewriter/issues"
+  },
+  "homepage": "https://github.com/svedova/typewriter#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-external-helpers": "^6.22.0",
+    "babel-preset-env": "^1.6.1",
+    "rollup": "^0.55.5",
+    "rollup-plugin-babel": "^3.0.3"
+  }
+}
