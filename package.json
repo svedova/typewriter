@@ -1,6 +1,6 @@
 {
   "name": "@svedova/typewriter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A lightweight TypeWriter that works out of the box",
   "main": "bundle.js",
   "scripts": {
