@@ -4,7 +4,7 @@ export default {
   input: "src/TypeWriter.js",
   output: {
     file: "bundle.js", 
-    format: "iife",
+    format: "cjs",
     name: "TypeWriter",
     sourcemap: true
   },
